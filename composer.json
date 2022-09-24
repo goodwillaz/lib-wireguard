@@ -1,0 +1,13 @@
+{
+    "name": "goodwillaz/lib-wireguard",
+    "description": "PHP Library for interacting with WireGuard tools",
+    "type": "library",
+    "license": "BSD-3-clause",
+    "authors": [
+        {
+            "name": "Matt Zuba",
+            "email": "matt.zuba@goodwillaz.org"
+        }
+    ],
+    "require": {}
+}
